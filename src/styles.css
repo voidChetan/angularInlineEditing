@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+ 
+.form-control { 
+    border: 1px solid #334497;
+}
+.btn-danger {
+    margin-left: 10px;
+}
+.fa {
+    font-size: 23px;
+    line-height: 1.5;
+    margin: auto;
+}
+
+.ml-2 {
+    margin-left: 10px;
+}
+.dd {
+}
